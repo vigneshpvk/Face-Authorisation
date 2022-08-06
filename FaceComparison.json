@@ -1,0 +1,56 @@
+{
+    "statusCode": 200,
+    "statusMessage": "OK",
+    "hasError": false,
+    "data": {
+        "resultIndex": 0,
+        "resultMessage": "The two faces belong to the same person. ",
+        "similarPercent": 0.7809106824882406
+    },
+    "imageSpecs": [
+        {
+            "leftTop": {
+                "isEmpty": false,
+                "x": 469,
+                "y": 115
+            },
+            "rightTop": {
+                "isEmpty": false,
+                "x": 324,
+                "y": 84
+            },
+            "rightBottom": {
+                "isEmpty": false,
+                "x": 293,
+                "y": 229
+            },
+            "leftBottom": {
+                "isEmpty": false,
+                "x": 438,
+                "y": 260
+            }
+        },
+        {
+            "leftTop": {
+                "isEmpty": false,
+                "x": 717,
+                "y": 117
+            },
+            "rightTop": {
+                "isEmpty": false,
+                "x": 481,
+                "y": 49
+            },
+            "rightBottom": {
+                "isEmpty": false,
+                "x": 413,
+                "y": 285
+            },
+            "leftBottom": {
+                "isEmpty": false,
+                "x": 649,
+                "y": 353
+            }
+        }
+    ]
+}
